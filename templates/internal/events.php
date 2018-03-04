@@ -1,4 +1,4 @@
-<div id="about" class="container-fluid center">
+<div id="events" class="container-fluid center">
     <h2 class="text-center">Events</h2>
     <table class='table borderless'>
         <thead>

@@ -1,5 +1,4 @@
 <?php $this->layout('layout', ['title' => 'Home']) ?>
-<?php $this->insert('components/header') ?>
 <?php $this->insert('internal/name')?>
 <?php $this->insert('internal/about')?>
 <?php $this->insert('internal/beers')?>

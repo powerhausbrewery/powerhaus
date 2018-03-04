@@ -248,8 +248,9 @@
         }
     </style>
 </head>
-<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+<body id="myPage">
 <container>
+    <?php $this->insert('components/header') ?>
     <?= $this->section('content') ?>
 </container>
 <?= $this->section('scripts') ?>

@@ -1,4 +1,4 @@
-<div id="services" class="container-fluid">
+<div id="beers" class="container-fluid">
     <div class="row center">
         <h2 class="text-center">Our Beers</h2>
         <div class="col-md-4">
